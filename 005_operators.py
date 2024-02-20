@@ -24,3 +24,11 @@ print(str(x),"modulus",str(y), '=', result_mod)
 # M - Multiplication
 # A - Addition
 # S - Subtraction
+
+# Can also use addition and multiplication operators on strings
+x = 'Hello'
+y = 3
+z = 'Hi'
+
+print(x*y)
+print(x+z)
